@@ -1,0 +1,6 @@
+Clean Code#//#Robert C. Martin#//#464#//#Software Engineering#//#Available
+The Mythical Man-Month#//#Frederick P. Brooks Jr.#//#322#//#Software Project Management#//#Borrowed
+You Don't Know JS: Scope & Closures#//#Kyle Simpson#//#98#//#JavaScript#//#Available
+OOP fundementals#//#Jeff Lanny#//#147#//#OOP#//#Borrowed
+C# Basics#//#Jeff Lanny#//#123#//#C sharp#//#Available
+Road Map to Software Architecture#//#Jony Lewis#//#1478#//#OOP#//#Available
